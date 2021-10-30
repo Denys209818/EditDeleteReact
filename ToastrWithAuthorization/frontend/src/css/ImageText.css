@@ -1,0 +1,7 @@
+.borderSolid {
+    border: 1px solid gray;
+}
+
+.borderDashed {
+    border: 2px dashed gray;
+}
